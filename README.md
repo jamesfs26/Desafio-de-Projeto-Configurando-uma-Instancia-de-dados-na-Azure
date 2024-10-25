@@ -1,6 +1,6 @@
  #  Desafio de Projeto Configurando uma instância de Banco de Dados na Azure:  👨🏻‍💻👔
 
-Este primeiro módulo me proporcionou uma visão abrangente dos fundamentos e práticas iniciais de computação em nuvem com Microsoft Azure, desenvolvendo habilidades de navegação, configuração e escolha de serviços na plataforma. Este projeto foi desenvolvido por **James Fonseca** em 25/10/2024 e consiste em um relátorio em forma de resumo da minha experiência ao longo deste primeiro módulo: **Conceito de Nuvem** da **Formação Microsoft AZ-900 Certification** proporcionado pela DIO em parceria com a Microsoft. Este foi o primeiro passo de uma longa jornada em Cloud.
+Este primeiro módulo me proporcionou uma visão abrangente dos fundamentos e práticas iniciais de computação em nuvem com Microsoft Azure, desenvolvendo habilidades de navegação, configuração e escolha de serviços na plataforma. Este projeto foi desenvolvido por **James Fonseca** em 25/10/2024 e consiste em um relatório em forma de resumo da minha experiência ao longo deste primeiro módulo: **Conceito de Nuvem** da **Formação Microsoft AZ-900 Certification** proporcionado pela DIO em parceria com a Microsoft. Este foi o primeiro passo de uma longa jornada em Cloud.
 
 ## 🖥 Introdução à Computação em Nuvem: ☁
 
